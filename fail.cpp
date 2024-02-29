@@ -22,6 +22,7 @@ int memcheckFailDemo(int* arrayStack, unsigned int arrayStackLen,
       arrayHeap[i] = 0;
   }
 
+
   return 0;
 }
 
